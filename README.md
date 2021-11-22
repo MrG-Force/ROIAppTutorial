@@ -24,12 +24,12 @@ A React Native App for managing the contact information of people who works in t
 <img src="/tutorial/ROIApp_AllContacts_SearchById.jpg" width="200">
 
 ## 4.	Filter by department
-- To see all the contacts in a Department, select the department from the drop-down list and press the filter button(funnel).
+- To see all the contacts per **department**, select the department from the **drop-down** list and press the **filter button(funnel)**.
 
 <img src="/tutorial/ROIApp_AllContacts_FilterByDepartment.jpg" width="200" align="left">
 <img src="/tutorial/ROIApp_Home_FilteredResults.jpg" width="200">
 
-- After the filter is applied you will see only the contacts of the selected department. To reset the list to see all the contacts, select **All departments** from the dropdown and press the filter button again.
+- After the filter is applied you will see only the contacts of the selected department. To **reset** the list to see all the contacts, select **All departments** from the dropdown and press the **filter** button again.
 
 ## 5.	Add Contact
 - When the Add contact  button is pressed you will be taken to the **New Contact** page. Here you can add a new contact by filling the required fields. ***Note that all fields are required.*** If some field is missing, the app will display an error message.
